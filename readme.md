@@ -1,6 +1,5 @@
-# this is my firsh reposity 
+# this is my first reposity 
 
-# good afternoon
-```bash
-npm install
+```bash 
+good afternoon
 ```
